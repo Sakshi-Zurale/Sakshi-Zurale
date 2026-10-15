@@ -1,183 +1,198 @@
- # Hi 👋, I'm Sakshi Ramdas Zurale
+<!--
+  GitHub Profile README
+  Repository: https://github.com/Sakshi-Zurale/Sakshi-Zurale
+-->
 
-### 🚀 Aspiring AI/ML Engineer | Electronics & Computer Engineering Student | IoT & Data Analytics Enthusiast
+<div align="center">
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2563EB&height=210&section=header&text=Sakshi%20Ramdas%20Zurale&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20%7C%20Python%20%7C%20Intelligent%20Systems&descAlignY=58&descSize=17" width="100%" alt="Sakshi Zurale — AI/ML Developer banner"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+Data+Science;Connecting+AI%2C+IoT+%26+real-world+problems;Turning+ideas+into+intelligent+solutions" alt="Animated introduction"/>
+</a>
+
+<br/>
+
+<a href="https://sakshi-portfolio-4752.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sakshi-ramdas-zurale-7b3b0b291"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/Sakshi_Zurale/"><img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://unstop.com/u/sakshzur6862"><img src="https://img.shields.io/badge/Unstop-Profile-6C63FF?style=for-the-badge" alt="Unstop"/></a>
+
+</div>
+
+---
 
 ## 👩‍💻 About Me
 
-🎓 Final Year B.Tech Student in Electronics & Computer Engineering at Sanjivani College of Engineering, Kopargaon
+Hi! I'm **Sakshi Ramdas Zurale**, an Electronics & Computer Engineering student at Sanjivani College of Engineering, passionate about building intelligent applications that solve real-world problems.
 
-💡 Passionate about Artificial Intelligence, Machine Learning, IoT, Data Analytics, and Sustainable Technology Solutions
+- 🤖 Focused on **Artificial Intelligence, Machine Learning, and Python**.
+- 🌾 Building **KrushiAI**, an intelligent farming platform combining crop recommendation, IoT-based soil monitoring, and agricultural market intelligence.
+- 🎓 Developing **EduAssist AI**, a student performance analysis and personalized learning platform.
+- 🧠 Exploring machine learning pipelines, deep learning, NLP, and AI-powered applications.
+- 🏆 Part of a team that achieved a **Top 25 finish in HCLTech AMPlified Season 1**.
+- 🔬 Interested in turning data and research into practical, usable software.
 
-🌱 Currently exploring Deep Learning, Generative AI, Computer Vision, and Intelligent Automation
-
-🏆 Copyright Holder of an AI-Based Mental Health Chatbot registered with the Intellectual Property Office, Government of India
-
-🌿 Working on **KrushiAI – Intelligent Farming Platform From Crop Selection to Market Profit**
-
-🎤 Hosted and coordinated **Sanjivani Talent Summit 2026**, engaging 30+ HR leaders, industry executives, and distinguished alumni
-
-🤝 Strong interest in solving real-world problems through AI-driven and IoT-enabled applications
-
----
-
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
-
-* Python
-* Java
-* C
-* SQL
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* Sentiment Analysis
-* Classification & Regression Models
-* Generative AI
-
-### 📊 Data Analytics
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* Power BI
-
-### 🌐 Web Development
-
-* HTML
-* CSS
-* JavaScript
-* Streamlit
-
-### 🔌 IoT & Embedded Systems
-
-* Arduino UNO
-* Sensor Integration
-* Soil Moisture Monitoring
-* Automation Systems
-* Smart Irrigation Solutions
-
-### 🗄️ Database & Tools
-
-* MySQL
-* Git
-* GitHub
-* VS Code
-
----
+> I enjoy building beyond the model — connecting data, ML, APIs, and user interfaces into complete applications.
 
 ## 🚀 Featured Projects
 
-### 🌾 KrushiAI – Intelligent Farming Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI and IoT-based agriculture platform integrating crop recommendation, sensor-driven monitoring, market intelligence, and farm analytics for data-driven agricultural decision-making.
+### 🌾 [KrushiAI](https://github.com/Sakshi-Zurale/Module1_AI-IoT-based-soil-testing-and-intelligent-crop-recommendation-system)
 
-**Tech Stack:** Python, Machine Learning, IoT, MySQL
+**Intelligent Farming & Crop Recommendation**
 
----
+An AI- and IoT-focused agriculture project designed to connect soil information with data-driven crop recommendations.
 
-### 🧠 AI-Based Mental Health Chatbot
+- Soil NPK and environmental data
+- Crop recommendation workflow
+- Sensor-based and manual soil inputs
+- Soil testing reports
 
-Developed an AI-powered mental wellness chatbot utilizing NLP for sentiment analysis, contextual understanding, and intelligent conversational support.
+`Python` `Machine Learning` `IoT`
 
-🏅 **Copyright Registered by the Intellectual Property Office, Government of India**
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** Python, NLP, Machine Learning
+### 🎓 [EduAssist AI](https://github.com/Sakshi-Zurale/EduAssist-AI)
 
----
+**Academic Performance Intelligence**
 
-### 🌿 AquaSense – IoT-Based Smart Irrigation System
+A cloud-based academic assistant designed to help students understand performance, identify weak areas, and explore personalized study recommendations.
 
-Engineered an IoT-based irrigation system integrating soil moisture sensors and automated water control to reduce water wastage and improve irrigation efficiency.
+- Student performance prediction
+- Academic risk analysis
+- Personalized learning insights
+- AI-powered question answering
 
-**Tech Stack:** Arduino UNO, Sensors, IoT
+`Python` `FastAPI` `React` `ML` `RAG`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🌱 Agriculture Management System
+### 🧭 [PathWise AI](https://github.com/Sakshi-Zurale/PathWise-AI-Personalised-Learning-Path-Recommender)
 
-Agricultural management platform for handling farm records, crop information, and operational workflows.
+**Personalized Learning Path Recommender**
 
-**Tech Stack:** Python, MySQL, Streamlit
+A collaborative AI project focused on helping learners discover personalized learning paths based on their goals and needs.
 
----
+`Python` `AI` `Recommendation Systems`
 
-### 📊 Data Analytics & Power BI Projects
+</td>
+<td width="50%" valign="top">
 
-Developed interactive dashboards and analytical reports for data visualization and business insights.
+### 🌦️ [Weather Forecasting using LSTM](https://github.com/Sakshi-Zurale/Weather-Forecast-using-LSTM)
 
-**Tech Stack:** Power BI, Python, SQL
+**Time-Series Forecasting**
 
----
+A machine learning project exploring an LSTM-based neural network for predicting future weather patterns from historical time-series data.
 
-## 🏅 Certifications
+`Python` `LSTM` `Deep Learning`
 
-* Data Analytics, Cloud Computing & AI – Godrej Infotech
-* Honeywell Future Skills Edge Program – Artificial Intelligence
-* Google Cloud Generative AI Leader Track
-* NPTEL – Project Management
-* NPTEL – Enhancing Soft Skills and Personality
-* Infosys Springboard Pragati: Path to Future Program
-* IoT Certification – DADB Program
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 💰 [Personal Finance Planner](https://github.com/Sakshi-Zurale/Personal-Finance-Planner-)
 
-## 👩‍💼 Leadership & Responsibilities
+**AI-Powered Financial Insights**
 
-* Event Management Head – Students Alumni Relation Cell (SARC)
-* Joint Secretary – Indian Society Forum (ISF)
-* Training & Placement Coordinator
-* Promotion Committee Member – Student Activity Council (SAC)
+A financial planning project combining expense analytics and AI-assisted insights to help users better understand their spending.
 
----
+`Python` `Machine Learning` `Analytics`
 
-## 🎯 Technical Participation
+</td>
+<td width="50%" valign="top">
 
-* Hackathons
-* IEEE Paper Presentations
-* Technical Quizzes
-* Coding Challenges
-* National-Level Tech Fests
-* Startup Pitch Competitions
+### 📊 [Godrej Infotech Training Projects](https://github.com/Sakshi-Zurale/Godrej-Infotech-Training-Projects)
 
----
+**Data Analytics, Cloud & AI**
 
-## 🌟 Areas of Interest
+A collection of training assignments, case studies, dashboards, and projects developed during a data analytics, cloud computing, and AI training program.
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Data Analytics
-* IoT Systems
-* Smart Agriculture
-* Computer Vision
+`Data Analytics` `AI` `Cloud Computing`
 
----
+</td>
+</tr>
+</table>
 
-## 📫 Connect With Me
+## 🛠️ Tech Stack
 
-📧 Email: **[sakshizurale936@gmail.com](mailto:sakshizurale936@gmail.com)**
+<div align="center">
 
-💻 GitHub: **https://github.com/Sakshi-Zurale**
+**Languages**
 
-🔗 LinkedIn: **https://www.linkedin.com/in/sakshi-ramdas-zurale-7b3b0b291**
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql&theme=dark" alt="Python, Java, C and MySQL"/>
 
----
+**Machine Learning & Data Science**
 
-## 📈 GitHub Stats
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi-Zurale\&show_icons=true\&theme=tokyonight)
+**Development & Tools**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Zurale\&layout=compact\&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=fastapi,react,html,css,js,git,github,vscode&theme=dark" alt="Development tools"/>
 
----
+**Currently Exploring**
 
-## ✨ Quote
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="Retrieval augmented generation"/>
+<img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
 
-> "Building intelligent solutions that create impact through AI, IoT, and sustainable innovation."
+</div>
+
+*Technologies shown reflect my project work and learning areas; I continue to deepen my practical experience.*
+
+## 🏆 Highlights & Achievements
+
+- 🥇 **HCLTech AMPlified Season 1:** Top 25 team achievement with PathWise AI.
+- 🌱 **KrushiAI:** Working on an AI-powered smart agriculture platform.
+- 📜 **Design registration:** Agricultural Soil and Crop Storage Monitoring Device.
+- 💡 Participating in collaborative projects, technical presentations, and innovation-focused activities.
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-Zurale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-Zurale&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=Sakshi-Zurale&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+## 🧩 Beyond Coding
+
+- 🧠 Practicing problem-solving through LeetCode.
+- 🤝 Collaborating on AI, ML, and innovation-driven projects.
+- 🌍 Interested in sustainable technology and solutions with real-world impact.
+- 📚 Continuously learning through experimentation, documentation, and project development.
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, AI/ML practitioners, and teams working on meaningful technology.
+
+<div align="center">
+
+<a href="https://github.com/Sakshi-Zurale">GitHub</a> •
+<a href="https://sakshi-portfolio-4752.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/sakshi-ramdas-zurale-7b3b0b291">LinkedIn</a> •
+<a href="https://leetcode.com/u/Sakshi_Zurale/">LeetCode</a> •
+<a href="https://unstop.com/u/sakshzur6862">Unstop</a>
+
+<br/><br/>
+
+*Building, learning, and improving — one intelligent solution at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
