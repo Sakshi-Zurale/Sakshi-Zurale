@@ -37,90 +37,206 @@ Hi! I'm **Sakshi Ramdas Zurale**, an Electronics & Computer Engineering student 
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1D4ED8,100:7C3AED&height=100&section=header&text=Things%20I%20Build&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%" alt="Featured projects banner"/>
+
+*Exploring AI, machine learning, intelligent applications, and technology for real-world challenges.*
+
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 [KrushiAI](https://github.com/Sakshi-Zurale/Module1_AI-IoT-based-soil-testing-and-intelligent-crop-recommendation-system)
+<div align="center">
 
-**Intelligent Farming & Crop Recommendation**
+<a href="https://github.com/Sakshi-Zurale/Module1_AI-IoT-based-soil-testing-and-intelligent-crop-recommendation-system">
+<img src="https://placehold.co/600x220/16351F/8FE3A1?text=KrushiAI%20%7C%20Smart%20Farming" width="100%" alt="KrushiAI smart farming project banner"/>
+</a>
 
-An AI- and IoT-focused agriculture project designed to connect soil information with data-driven crop recommendations.
+### 🌾 KrushiAI
 
-- Soil NPK and environmental data
-- Crop recommendation workflow
-- Sensor-based and manual soil inputs
-- Soil testing reports
+**AI-powered Smart Agriculture**
+
+</div>
+
+An intelligent farming project focused on soil testing, crop recommendation, and IoT-enabled agricultural monitoring.
+
+- 🌱 Soil NPK and environmental data
+- 🤖 Data-driven crop recommendations
+- 📄 Soil testing report generation
 
 `Python` `Machine Learning` `IoT`
 
+<div align="center">
+
+[**Explore Repository →**](https://github.com/Sakshi-Zurale/Module1_AI-IoT-based-soil-testing-and-intelligent-crop-recommendation-system)
+
+</div>
+
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [EduAssist AI](https://github.com/Sakshi-Zurale/EduAssist-AI)
+<div align="center">
+
+<a href="https://github.com/Sakshi-Zurale/EduAssist-AI">
+<img src="https://placehold.co/600x220/172554/93C5FD?text=EduAssist%20AI%20%7C%20Learning%20Intelligence" width="100%" alt="EduAssist AI academic intelligence project banner"/>
+</a>
+
+### 🎓 EduAssist AI
 
 **Academic Performance Intelligence**
 
-A cloud-based academic assistant designed to help students understand performance, identify weak areas, and explore personalized study recommendations.
+</div>
 
-- Student performance prediction
-- Academic risk analysis
-- Personalized learning insights
-- AI-powered question answering
+A cloud-based academic assistant designed to analyse student performance and support personalized learning decisions.
+
+- 📊 Student performance prediction
+- 🎯 Weak-area identification
+- 💬 Academic insights and AI-powered Q&A
 
 `Python` `FastAPI` `React` `ML` `RAG`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🧭 [PathWise AI](https://github.com/Sakshi-Zurale/PathWise-AI-Personalised-Learning-Path-Recommender)
+[**Explore Repository →**](https://github.com/Sakshi-Zurale/EduAssist-AI)
 
-**Personalized Learning Path Recommender**
-
-A collaborative AI project focused on helping learners discover personalized learning paths based on their goals and needs.
-
-`Python` `AI` `Recommendation Systems`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌦️ [Weather Forecasting using LSTM](https://github.com/Sakshi-Zurale/Weather-Forecast-using-LSTM)
-
-**Time-Series Forecasting**
-
-A machine learning project exploring an LSTM-based neural network for predicting future weather patterns from historical time-series data.
-
-`Python` `LSTM` `Deep Learning`
+</div>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [Personal Finance Planner](https://github.com/Sakshi-Zurale/Personal-Finance-Planner-)
+<div align="center">
 
-**AI-Powered Financial Insights**
+<a href="https://github.com/Sakshi-Zurale/Personal-Finance-Planner-">
+<img src="https://placehold.co/600x220/3B260E/FCD34D?text=Personal%20Finance%20Planner" width="100%" alt="Personal Finance Planner project banner"/>
+</a>
 
-A financial planning project combining expense analytics and AI-assisted insights to help users better understand their spending.
+### 💰 Personal Finance Planner
 
-`Python` `Machine Learning` `Analytics`
+**AI-Assisted Financial Insights**
+
+</div>
+
+A personal finance application combining expense analytics, spending insights, and AI-assisted financial guidance.
+
+- 📈 Expense and category analytics
+- 💳 Spending pattern exploration
+- 🤖 Context-aware financial assistance
+
+`Python` `Analytics` `AI`
+
+<div align="center">
+
+[**Explore Repository →**](https://github.com/Sakshi-Zurale/Personal-Finance-Planner-)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Godrej Infotech Training Projects](https://github.com/Sakshi-Zurale/Godrej-Infotech-Training-Projects)
+<div align="center">
 
-**Data Analytics, Cloud & AI**
+<a href="https://github.com/Sakshi-Zurale/ANUBHAV-Intelligent-Pilgrim-Experience-Mobility-Planning-Platform">
+<img src="https://placehold.co/600x220/312E81/C4B5FD?text=ANUBHAV%20%7C%20Pilgrim%20Experience" width="100%" alt="ANUBHAV intelligent pilgrim experience project banner"/>
+</a>
 
-A collection of training assignments, case studies, dashboards, and projects developed during a data analytics, cloud computing, and AI training program.
+### 🛕 ANUBHAV
 
-`Data Analytics` `AI` `Cloud Computing`
+**Intelligent Pilgrim Experience & Mobility Planning**
+
+</div>
+
+A collaborative innovation project developed in the Kumbhathon SPRINT context, focused on improving the pilgrim experience and mobility planning.
+
+- 🧭 Pilgrim experience planning
+- 🚶 Mobility-focused problem solving
+- 🤝 Team-based innovation
+
+`TypeScript` `Web Development`
+
+<div align="center">
+
+[**Explore Repository →**](https://github.com/Sakshi-Zurale/ANUBHAV-Intelligent-Pilgrim-Experience-Mobility-Planning-Platform)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<a href="https://github.com/Sakshi-Zurale/AI-Based-Mental-Health-Chatbot-Using-NLP-and-Deep-Learning">
+<img src="https://placehold.co/600x220/3F1D36/F9A8D4?text=Mental%20Health%20Chatbot%20%7C%20NLP" width="100%" alt="AI mental health chatbot project banner"/>
+</a>
+
+### 🧠 AI-Based Mental Health Chatbot
+
+**NLP & Deep Learning**
+
+</div>
+
+An AI-focused chatbot project exploring conversational interaction and NLP-based identification of possible stress, anxiety, and depression indicators.
+
+- 💬 Conversational interface
+- 🧠 NLP and deep learning techniques
+- 🔎 Text-based pattern analysis
+
+`Python` `NLP` `Deep Learning`
+
+<div align="center">
+
+[**Explore Repository →**](https://github.com/Sakshi-Zurale/AI-Based-Mental-Health-Chatbot-Using-NLP-and-Deep-Learning)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<a href="https://github.com/Sakshi-Zurale/Agriculture-Managenment-System-">
+<img src="https://placehold.co/600x220/365314/D9F99D?text=Agriculture%20Management%20System" width="100%" alt="Agriculture Management System project banner"/>
+</a>
+
+### 🚜 Agriculture Management System
+
+**Digital Agriculture Management**
+
+</div>
+
+An agriculture-focused software project aimed at organizing farming-related information and management workflows.
+
+- 🌾 Agriculture domain application
+- 🗂️ Farming information management
+- 💻 Software development and problem solving
+
+`Software Development` `Agriculture`
+
+<div align="center">
+
+[**Explore Repository →**](https://github.com/Sakshi-Zurale/Agriculture-Managenment-System-)
+
+</div>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1D4ED8,100:7C3AED&height=3&section=footer" width="100%" alt="Decorative divider"/>
+
+**Building with purpose. Learning by doing. Engineering for impact.** ✨
+
+</div>
 
 ## 🛠️ Tech Stack
 
